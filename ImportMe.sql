@@ -1,0 +1,1 @@
+ALTER TABLE users add ped VARCHAR(50) null;
